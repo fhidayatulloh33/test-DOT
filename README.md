@@ -5,4 +5,5 @@ cara install :
 4. buat database dangan nama dot_db
 5. lakukan mingration dengan cara menuliskan php artisan migrate
 6. setalah itu jalankan aplikasi dengan php artisan serve
-7. 
+
+trimakasih
